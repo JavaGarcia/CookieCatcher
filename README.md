@@ -1,4 +1,4 @@
-# CookieCatcher (version. 0.0.1)
+# CookieCatcher (v 0.0.1)
 This is a mini and simple API REST for management of Web sessions that were hijacked.
 
 <center><img src="http://2.bp.blogspot.com/-1H9hR_zOsP8/VTflh5wSpEI/AAAAAAAAAPs/MoLPDkpRRuI/s1600/Screen%2BShot%2B2015-04-22%2Bat%2B1.18.09%2BPM.png"></center>
