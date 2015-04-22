@@ -8,7 +8,12 @@ This is a mini and simple API REST for management of Web sessions that were hija
 - Parse to cookies format
 - Create script to import into your browser
 
+
+
 ### How to install this little devil?
+##### Require
+ - nodejs 0.10+
+
 ```sh
 $ git https://github.com/JavaGarcia/CookieCatcher.git
 $ cd CookieCatcher
